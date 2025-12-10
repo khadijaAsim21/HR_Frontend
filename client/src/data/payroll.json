@@ -1,0 +1,32 @@
+[
+  {
+    "id": 301,
+    "employeeId": 1,
+    "month": "October 2023",
+    "baseSalary": 85000,
+    "bonus": 2000,
+    "deductions": 1500,
+    "netPay": 85500,
+    "status": "Paid"
+  },
+  {
+    "id": 302,
+    "employeeId": 2,
+    "month": "October 2023",
+    "baseSalary": 75000,
+    "bonus": 1000,
+    "deductions": 1200,
+    "netPay": 74800,
+    "status": "Paid"
+  },
+  {
+    "id": 303,
+    "employeeId": 3,
+    "month": "October 2023",
+    "baseSalary": 70000,
+    "bonus": 0,
+    "deductions": 1000,
+    "netPay": 69000,
+    "status": "Processing"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "email": "john.doe@example.com",
+    "joinDate": "2023-01-15",
+    "salary": 85000
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "HR Manager",
+    "department": "Human Resources",
+    "status": "Active",
+    "email": "jane.smith@example.com",
+    "joinDate": "2022-11-01",
+    "salary": 75000
+  },
+  {
+    "id": 3,
+    "name": "Ali Khan",
+    "role": "Product Designer",
+    "department": "Design",
+    "status": "On Leave",
+    "email": "ali.khan@example.com",
+    "joinDate": "2023-03-10",
+    "salary": 70000
+  },
+  {
+    "id": 4,
+    "name": "Sara Ahmed",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "status": "Active",
+    "email": "sara.ahmed@example.com",
+    "joinDate": "2023-06-20",
+    "salary": 65000
+  },
+  {
+    "id": 5,
+    "name": "Michael Chen",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "status": "Active",
+    "email": "michael.chen@example.com",
+    "joinDate": "2023-02-28",
+    "salary": 90000
+  }
+]

@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+/* Custom CSS Variables */
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Global Styles */
+body {
+  font-family: var(--font-sans);
+  @apply bg-gray-50 text-gray-900 antialiased transition-colors duration-300;
+}
+
+/* Dark Mode Overrides */
+.dark body {
+  @apply bg-gray-950 text-gray-100;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-700 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-600;
+}
+
+/* Animation Utilities */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

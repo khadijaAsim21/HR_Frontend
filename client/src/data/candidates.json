@@ -1,0 +1,26 @@
+[
+  {
+    "id": 201,
+    "name": "Emily Blunt",
+    "role": "Senior Frontend Engineer",
+    "status": "Interview Scheduled",
+    "email": "emily.b@example.com",
+    "matchScore": 85
+  },
+  {
+    "id": 202,
+    "name": "David Ross",
+    "role": "Product Manager",
+    "status": "Application Received",
+    "email": "david.ross@example.com",
+    "matchScore": 72
+  },
+  {
+    "id": 203,
+    "name": "Sarah Connor",
+    "role": "Senior Frontend Engineer",
+    "status": "Shortlisted",
+    "email": "sarah.c@example.com",
+    "matchScore": 92
+  }
+]

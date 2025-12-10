@@ -1,0 +1,23 @@
+[
+  {
+    "employeeId": 1,
+    "reviewPeriod": "Q3 2023",
+    "rating": 4.5,
+    "feedback": "Excellent performance, consistently meets deadlines.",
+    "goalsMet": true
+  },
+  {
+    "employeeId": 2,
+    "reviewPeriod": "Q3 2023",
+    "rating": 4.0,
+    "feedback": "Good leadership skills, needs to improve on reporting.",
+    "goalsMet": true
+  },
+  {
+    "employeeId": 3,
+    "reviewPeriod": "Q3 2023",
+    "rating": 3.5,
+    "feedback": "Creative designs but needs to work on time management.",
+    "goalsMet": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "employeeId": 1,
+    "date": "2023-10-25",
+    "status": "Present",
+    "checkIn": "09:00 AM",
+    "checkOut": "05:00 PM"
+  },
+  {
+    "employeeId": 1,
+    "date": "2023-10-26",
+    "status": "Present",
+    "checkIn": "09:15 AM",
+    "checkOut": "05:10 PM"
+  },
+  {
+    "employeeId": 2,
+    "date": "2023-10-25",
+    "status": "Absent",
+    "checkIn": "-",
+    "checkOut": "-"
+  },
+  {
+    "employeeId": 3,
+    "date": "2023-10-25",
+    "status": "Late",
+    "checkIn": "10:30 AM",
+    "checkOut": "06:00 PM"
+  }
+]
